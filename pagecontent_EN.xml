@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <tableofcontent>Detailed Table of Contents</tableofcontent>
+  <MainBookName>Internet of Things</MainBookName>
+  <Topics>       
+    <Content id="1" HeaderContant="Content"><![CDATA[&nbsp;_ 14. Smart Grids]]></Content>
+    <Path><![CDATA[page.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[14.1 Introduction]]></Content>
+    <Path><![CDATA[page_1.html]]></Path>
+  </Topics> 
+     <Topics>
+    <Content HeaderContant=""><![CDATA[14.2 Characteristics of Smart Grid]]></Content>
+    <Path><![CDATA[page_2.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.3 Benefits of Smart Grid]]></Content>
+    <Path><![CDATA[page_3.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.4 Smart Grid Architecture]]></Content>
+    <Path><![CDATA[page_4.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.5 Smart Grid Architecture]]></Content>
+    <Path><![CDATA[page_5.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.6 Smart Homes	]]></Content>
+    <Path><![CDATA[page_6.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.7 Renewable Energy]]></Content>
+    <Path><![CDATA[page_7.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.8 Consumer Engagement]]></Content>
+    <Path><![CDATA[page_8.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.9 Operation Centers]]></Content>
+    <Path><![CDATA[page_9.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.10 Distribution Intelligence]]></Content>
+    <Path><![CDATA[page_10.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.11 Plug-in Electric Vehicles]]></Content>
+    <Path><![CDATA[page_11.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.12 Smart Grid Communication]]></Content>
+    <Path><![CDATA[page_12.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.13 Smart Grid Security]]></Content>
+    <Path><![CDATA[page_13.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.14 Smart Grid and Cloud]]></Content>
+    <Path><![CDATA[page_14.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.15 Energy Management]]></Content>
+    <Path><![CDATA[page_15.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.16 Information Management	]]></Content>
+    <Path><![CDATA[page_16.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.17 Security]]></Content>
+    <Path><![CDATA[page_17.html]]></Path>
+  </Topics>
+   <Topics>
+    <Content HeaderContant=""><![CDATA[14.18 Conclusion]]></Content>
+    <Path><![CDATA[page_18.html]]></Path>
+  </Topics>
+</main>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.10. Distribution Intelligence</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[Distribution intelligence means the energy distribution systems that are equipped with smart IoT devices. Smart meter is an example for distribution intelligence. Other features of distribution intelligence are the identification of the source of a power outage and ensure power flow automatically by combining automated switching. Distribution intelligence can optimize the balance between real and reactive power. There are devices that store and release energy. This may cause increased electrical currents without consuming real power. Intelligent distribution system maintains the proper level of reactive power in the system. In addition, it protects and controls the feeder lines.]]></pText>
+    </PageText>
+  
+  </PageData>
+</main>

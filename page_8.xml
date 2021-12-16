@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.8. Consumer Engagement</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[Consumers can save energy with proper scheduling of smart home appliances. Consumers need to pay less for energy consumed during off-peak hours. Energy service provider gives incentives based on the energy consumption of the consumer and they can save money. Consumer’s engagement can be in following ways.]]></pText>
+    </PageText>
+      <PageText><pText><![CDATA[ <ol class=”LowerAlphaClass”><li><b>Time-of-use pricing</b>: The consumers are encouraged to consume energy during off-peak hours when the energy load is less. Throughout the day, the energy load on the grids is dynamic. During on-peak hours, if the requested amount of energy is higher, it leads to less efficient energy distribution and more pollution as the grid depends on non-renewable energy resource to meet the peak requirements. Home energy management system tries to schedule the smart appliances in off-peak hours to ensure efficient services and to pay less.</li></ol>]]></pText> </PageText>
+      <PageText><pText><![CDATA[ <ol class=”LowerAlphaClass”><li><b>Net metering</b>: This is feasible with the installation of smart meters. Consumers are paid high, if they were supplying excess amount of generated energy to the grid during on-peak hours. The price is less in during off-peak hours. Final bills to be paid by the consumers depends on the in-flow of energy (from the grid to the consumers- end) and the out-flow of energy (from the consumers-end to the grid).</li></ol>]]></pText> </PageText>
+      <PageText><pText><![CDATA[ <ol class=”LowerAlphaClass”><li><b>Financial incentives</b>: Energy service provider offers some financial incentives for the consumer’s participation. The consumer may get incentives from the energy service provider at the end of the year based on the net metering value. The incentives may include for shifting operation of the appliances to the off-peak hours and for using the stored energy at the battery installed at the consumer’s end or at the plug-in hybrid electric vehicles (PHEVs).</li></ol>]]></pText> </PageText>
+
+  
+  
+  </PageData>
+</main>

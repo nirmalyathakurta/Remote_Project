@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.4 Smart Grid Architecture</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[Figure 14.1 shows the basic architecture of a smart grid. There is a source of power generation which can be from renewable and non-renewable sources.. From the source of power generation, the electricity is transmitted through power transmission and distribution lines and is fed to a Neighborhood Area Network (NAN) comprising of various homes and offices. Each of the homes have smart appliances with smart meters. The power generation systems have various sensors and actuators connected to IP networks. IP networks are connected to Meter Data Management System (MDMS). MDMS can be connected to power transmission and distribution lines. At the same time MDMS can be connected to data aggregator unit which collects data from smart meters. In this there is a hand shaking between traditional electric grid and information flow.]]></pText>
+    </PageText>
+   
+      <pText><![CDATA[Figure 14.2 shows the conceptual model of smart grid domains. Various components of conceptual model are customers, service providers, markets, generation systems, transmission systems and distribution systems. The dotted lines show electrical flow between various components and solid lines show the secure communication flow between various components.]]></pText>
+    </PageText>
+
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClassWithBorder"><img src="Images\project.jpg"></div>]]></pText>
+    </PageText>
+<SubHeading><![CDATA[Conceptual Model text-align="centre"]]></SubHeading>
+                
+  </PageData>
+</main>

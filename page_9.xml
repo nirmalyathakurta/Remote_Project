@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.9. Operation Centerst</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[There are several drawbacks for the traditional operation centers. Some of them are given below.]]></pText>
+    </PageText>
+      <PageText><pText><![CDATA[ <ol class=”LowerAlphaClass”><li>Traditional grid tries to make sure that the amount of generated energy is getting used.</li></ol>]]></pText> </PageText>
+      <PageText><pText><![CDATA[ <ol class=”LowerAlphaClass”><li>The grid is unstable, if the grid voltage drops due to excess energy generation.</li></ol>]]></pText> </PageText>
+      <PageText><pText><![CDATA[ <ol class=”LowerAlphaClass”><li>There are limited control capabilities in traditional grid.</li></ol>]]></pText> </PageText>
+      <PageText><pText><![CDATA[ <ol class=”LowerAlphaClass”><li>There are no means to detect oscillation which leads to blackout.</li></ol>]]></pText> </PageText>
+      <PageText><pText><![CDATA[ <ol class=”LowerAlphaClass”><li>e.	Limited information about the energy flow through the grid. </li></ol>]]></pText> </PageText>
+ <PageText>
+      <pText><![CDATA[[Smart grids on the other hand have the following advantages.]]></pText>
+    </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>Smart grids provide information and control on the transmission system.</li></ul>]]></pText> </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>Makes the energy grid more reliable.</li></ul>]]></pText> </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>Minimize the possibility of widespread blackouts..</li></ul>]]></pText> </PageText>
+   <PageText>
+      <pText><![CDATA[[For monitoring and controlling the transmission system in smart grid, Phasor Measurement Unit (PMU) is used. PMU samples voltage and current with a fixed sample rate at the installed location. It provides a snapshot of the active power system at that location. By increasing the sampling rate, PMU provides the dynamic scenario of the energy distribution system. PMU helps to identify the possibility of blackout in advance. Multiple PMUs form a phasor network. The information collected by the phasor network is analyzed at centralized system which is known as Supervisory Control and Data Acquisition (SCADA) system.]]></pText>
+    </PageText>
+   <PageText>
+      <pText><![CDATA[[Self-healing of the grid is another advantage of smart grids. The smart grids dampen unwanted power oscillations. It avoids unwanted flows of current through the grid. The smart grids reroute power flows in order to avoid overloading in a transmission line. Demand side energy distribution is possible in smart grids. In this energy supply is done based on the requirement of consumers. The consumers pay according to the energy consumed and price is decided by the energy service provider at that time. In smart grids, the energy distributors can form coalition and serve the energy requirement in a specific geographic location.]]></pText>
+    </PageText>
+  
+  </PageData>
+</main>
