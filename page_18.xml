@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.18. Conclusion</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[This Chapter gives an overview about smart grids, one of the applications of Internet of Things. The characteristics of smart grid, benefits of smart grid and smart grid architecture are explained in detail. The components of smart grid namely smart homes, renewable energy, consumer engagement, operation centers, distribution intelligence and plug-in electric vehicles are well explained. Other aspects of smart grid like smart grid communication and smart grid security are clearly illustrated. Finally integration of smart grid with cloud applications for energy management, information management and security is also covered in this Chapter.]]></pText>
+    </PageText>
+   </PageData>
+</main>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.15. Energy Management</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[The energy management in smart grid can be more efficient by using cloud applications. With the integration of cloud with smart grid, the requests from customers are scheduled which are to be executed depending on the available resources, priority and other applicable constraints. Integrating cloud computing applications for micro-grid management is in the form of different modules such as infrastructure, power management and service. With this integration, the number of customers that can be supported increases. With this model, information streaming from multiple smart meters can be integrated and analyzed simultaneously in order to balance the real-time demand and supply curves.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[Another advantage is that real-time energy usage and pricing information can be shared. Mobile agents can be used to monitor power system using cloud computing platform due to the smart grid’s heterogeneous architecture.]]></pText>
+    </PageText>
+   </PageData>
+</main>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.16. Information Management</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[Information processing in smart grid fits well with the computing and storage mechanisms available for cloud applications. Information from different components and the supply and demand state conditions can be shared with the help of cloud computing. Real-time distributed data management and parallel processing of information can be utilized using smart grid data cloud application. With the flexibility of cloud computing, information is retrieved from the data cloud more conveniently in smart grid. Cloud computing services are used as a dynamic data center to store the real-time information from the smart meters.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[Dynamic pricing mechanism in smart grid is feasible with the use of cloud application. Multi-mobile agent can be combined with cloud computing for profitable smart grid operation. Interactive cooperation using cloud services are used to support multiple customers and multiple energy sources. This will help for the large-scale development of smart grid for energy management. Figure 14.4 shows the information management in cloud.]]></pText>
+    </PageText>
+     <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="Images\img3.jpg"></div>]]></pText>
+    </PageText>
+   </PageData>
+</main>

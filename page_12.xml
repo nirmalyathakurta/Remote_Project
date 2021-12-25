@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.11. Plug-in Electric Vehicles</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[Various components for smart grid communication are smart home appliances, smart meters, gateways, data aggregator units (DAUs) and Meter Data Management Systems (MDMSs). All these components are shown in the architecture of smart grid in Figure 14.1. There are different networks associated with smart grid communication like Home Area Networks (HANs), Neighborhood Area Networks (NANs), Wide Area Networks (WANs), IP networks and Sensors and Actuators networks (SANETs).]]></pText>
+    </PageText>
+  
+    <PageText>
+      <pText><![CDATA[<b>Smart meters and gateways</b>: Smart meters forward the energy consumption information from the home appliances to gateways. The smart meters also forward the billing amount and the control information from the gateways to the home appliances. Gateways act as link between the smart meters and the Data Aggregator Units (DAUs). Each gateway connects few closely located smart meters. Gateways helps in two-way communication and the communications are mostly based on WiFi.]]></pText>
+    </PageText>
+  
+    <PageText>
+      <pText><![CDATA[<b>Data Aggregator Units (DAUs)</b>: They aggregate the energy consumption or energy request of certain geographical area. DAUs forward the energy consumption information to the centralized coordinator known as Meter Data Management System (MDMS). DAUs maintain a buffer to queue the energy consumption information of the consumers.]]></pText>
+    </PageText>
+  
+    <PageText>
+      <pText><![CDATA[<b>Meter Data Management Systems (MDMSs)</b> They act as the centralized coordinator for smart grid communication. MDMSs are handled by energy service providers. It is a part of the operation center. MDMS decides the price per unit energy to be paid by the consumers.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[For smart home communication, there are several protocols available. The protocols, data rate transmission and operational frequency are given below.]]></pText>
+    </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>C-BUS – The data rate is 3500 bits/sec and is able to handle lengths up to 1000m.</li></ul>]]></pText> </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>DECT – The data rate is 64000 bits/sec and operates in 1880-1930 MHz.</li></ul>]]></pText> </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>EnOcean – The data rate is 9600 bits/sec and operates in 902 MHz in North America.</li></ul>]]></pText> </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>Universal Power Line Bus – The data rate is 480 bits/sec. It is a two-way communication protocol.</li></ul>]]></pText> </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>Thread – The data rate is between 20 to 250 Kbits/sec. The IPv6 addressing based 6LoWPAN networking protocol is used</li></ul>]]></pText> </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>ZigBee – The data rate is between 20 to 250 Kbits/sec. It operates in 2.4 GHz band. Communication range is nearly 100m.</li></ul>]]></pText> </PageText>
+    <PageText><pText><![CDATA[ <ul class=”ListClassCircle”><li>•	Simplified Cable Solution (SCS) – The data rate is 9.6 Kbits/sec. It works on twisted pair and is developed based on OpenWebNet.</li></ul>]]></pText> </PageText>
+  
+  </PageData>
+</main>

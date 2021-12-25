@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.17. Security</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[An electric power information security and protection system can be developed based on cloud security. There are private cloud platforms that are suitable for scaling out and processing millions of data from users. Using the cloud computing platform, the electrical utilities can quickly and effectively deal with malicious software. In security and protection system for electrical power, servers act as cloud and take decision according to the client’s data.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[Cloud computing applications can quickly and effectively deal with malicious software. Data storage security for distributed verification in smart grid can be done using cloud application. Real-time data can be analyzed and estimated using cloud in smart grid. Cloud- based information privacy scheme can be used for smart grid data privacy. Figure 14.5 shows the security in smart grid integrated with cloud.]]></pText>
+    </PageText>
+     <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="Images\img4.jpg"></div>]]></pText>
+    </PageText>
+   </PageData>
+</main>

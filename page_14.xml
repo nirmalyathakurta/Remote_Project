@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.14. Smart Grid and Cloud</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[In smart grids, cloud applications take a lead in several aspects like energy management, information management and security. Figure 14.3 shows the integration of Cloud and smart grid.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[Various components are substation, micro-grid, customer etc. The two important aspects of cloud is that the electricity is stored in cloud energy storage and information is stored in cloud data storage. The cloud integrated smart grids have made possible the integration of two different cloud approaches like energy storage and data storage.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="Images\img2.jpg"></div>]]></pText>
+    </PageText>
+
+  </PageData>
+</main>

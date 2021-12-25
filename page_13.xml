@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[<b>14.13. Smart Grid Security</b>]]></SubHeading>
+    <SubHeading><![CDATA[<b>Integrity</b>]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[Integrity refers to the credibility of the data collected and transferred over the grid. The threats to integrity are Data Injection Attacks (DIAs) and system damage. DIA is the manipulation of exchanged data such as sensor readings, feedback control signals and electricity price signals. It is performed by compromising the hardware components or interrupting the communication links.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[In system damage, an attacker can manipulate the system measurements so that a congested transmission line falsely seems to not have reached its thermal transmission limit. System damage may arise due to large fluctuations in system dynamics that can lead to tripping additional lines, disconnecting generators, load shedding or even a system blackout. The financial benefit for the intruders is the manipulation of electricity prices. One can buy energy with lesser price from a service provider and make high profit.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[Another threat to integrity is the time synchronization attacks. The attacks that target PMU time synchronization are known as time synchronization attacks. An adversary can manipulate the time reference of the time stamped measured phasors to create a false visualization of the actual system conditions thus yielding inaccurate control and protection actions.]]></pText>
+    </PageText>
+  <SubHeading><![CDATA[<b>Availability</b>]]></SubHeading>
+   <PageText>
+      <pText><![CDATA[Availability is the accessibility to every grid component as well as to the information transmitted and collected. Attacks that compromise the availability are known as Denial-of-Service (DoS).Intruders block key signals to compromise the stability of the grid and observation of its states. They can also manipulate generation-load balance.]]></pText>
+    </PageText>
+    <SubHeading><![CDATA[<b>Dynamic System Attacks</b>]]></SubHeading>
+     <PageText>
+      <pText><![CDATA[Dynamic system attacks include Replay Attacks (RAs), Dynamic Data Injection Attacks (DDIAs) and covert attack. In RAs, the intruders inject input data in the system without causing changes to the measurable outputs. RAs compromise sensors by monitoring their outputs, learns the outputs and repeats them while injecting its attack signal. DDIAs use knowledge of the grid’s dynamic model to inject data which can lead to system collapse. Covert attack is the closed loop version of replay attacks.]]></pText>
+    </PageText>
+     <SubHeading><![CDATA[<b>Physical Threats</b>]]></SubHeading>
+       <PageText>
+      <pText><![CDATA[This involves the attack of a physical component such as a generator, substation or transmission line. These types of attacks are very prominent. Another type of physical threat is the physical manipulation of smart meters for energy theft purposes.]]></pText>
+    </PageText>
+    <SubHeading><![CDATA[<b>Coordinated Attacks</b>]]></SubHeading>
+     <PageText>
+      <pText><![CDATA[Usually power system typically incorporates robustness measures. Coordinated attack is an attack that leads to the failure of one or few components. Coordinated attacks exploit the dense interconnections between grid components to launch simultaneous attacks of different types targeting various components.]]></pText>
+    </PageText>
+  </PageData>
+</main>
